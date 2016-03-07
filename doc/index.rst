@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. Россия: http://clan-panel-ru.appspot.com
-.. Европа: http://clan-panel-ru.appspot.com
+.. _Россия: http://clan-panel-ru.appspot.com
+.. _Европа: http://clan-panel-ru.appspot.com
 .. _Северная Америка: http://clan-panel-na.appspot.com
 .. _Юго-Восточная Азия: http://clan-panel-sea.appspot.com
 
