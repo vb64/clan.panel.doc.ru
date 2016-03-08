@@ -1,19 +1,23 @@
-Track events of the clan
-========================
+Новостная лента клана
+=====================
 
-The following events are tracked:
+Отслеживаются следующие виды событий:
 
-* changing of nicknames for clan's members
-* adoption of a new member to the clan
-* member left the clan
-* clan member receive a new position in the clan
-* clan member gained new top-tank
-* clan members are achieving new personal record for the maximum experience
-* obtaining "Ace Tanker" badges
+* смена игровых ников участников
+* принятие в клан нового участника
+* уход участника из клана
+* получение участником новой должности в клане
+* покупка участниками новых единиц топ-техники
+* достижение участниками клана новых личных рекордов максимального опыта за бой
+* получение знаков классности "Мастер"
 
-There are a links on the clan's news page, that allow you to pick out certain types of news from the general list of clan's news.
+На странице новостей клана есть ссылки, которые позволяют выделять отдельные типы новостей из общего списка новостей.
 
-You can access the list of these events on special page at this site, as an RSS feed, or as email notifications. 
+Эта лента событий доступна в нескольких вариантах: 
 
-You can find private url address of the RSS feed for your clan, on the page "Management". 
-This page available for clan administrators (leader, vice-leaders), after OpenID auth ("Sign in" link at the top of page).
+* на отдельной странице клана на сервисе
+* в виде rss потока (который можно подключить, например, на сайте клана)
+* как почтовая рассылка, если пользователь укажет свой email у себя в профиле
+
+Вы можете найти "секретный" адрес RSS ленты новостей клана в разделе "Управление".
+Этот раздел доступен для администров клана (командир, заместители, плюс настраиваемый список должностей) после авторизации по OpenID (ссылка "Войти" вверху страницы).

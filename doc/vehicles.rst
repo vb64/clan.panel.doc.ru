@@ -1,7 +1,9 @@
-Summary table of the top-tanks of your clan
-===========================================
+Учет техники, имеющейся в клане
+===============================
 
-For each model of the top-vehicle, there is a list of owners (clan members), with extended data.
+Имеется сводная таблица имеющейся в клане топ-техники по моделям, и списком участников, имеющих данную модель:
 
 .. figure:: vehicles_top_tanks.jpg
-   :alt: Top-tanks table
+   :alt: Таблица топ-техники
+
+Кроме того, участники клана имеют возможность указать в своем профиле имеющуюся у них технику, помимо топовой.

@@ -1,22 +1,23 @@
-Introduction
-============
+Введение
+========
 
-.. _this table: http://clan-panel-ru.appspot.com/doc/pricing
+.. _этой таблице: http://clan-panel-ru.appspot.com/doc/pricing
 
-This site is intended for administrators of WorldOfTanks gaming clans.
+Этот сайт предназначен для администраторов кланов (командир, замы, плюс настраиваемый список должностей) онлайн-игры WorldOfTanks.
 
-After OpenID auth ("Sign in" link at the top of page), every clan member have access for own profile page. On this profile page you can set up:
+Сервис поддерживает авторизацию на сервере wargaming.net по протоколу OpenID. После авторизации (ссылка "Войти" вверху страницы),
+для всех участников клана доступны страницы профиля участника. В профиле можно:
 
-* option "clanmates only" for visitors of your account pages
-* your email address, if you want to receive email notifications about clan news
-* list of the non top vehicles in your garage
-* short message (up to 10 chars) about your in-game status
+* включить режим, при котором страницы с данными об участнике могут просматривать только соклановцы
+* задать адрес email, на который будут поступать сообщения о новостях клана
+* указать список не топовой техники, имеющейся у игрока в ангаре (список топов формируется автоматически)
+* заполнить поле "статус", содержимое которого будет отображаться рядом с ником игрока в общеклановом и ротных разделах
 
-The site can serve clans in three planes: free, base and premium.
+Сервис обслуживает кланы в трех режимах: бесплатном, базовом и премиумном.
 
+Бесплатный режим доступен по умолчанию, после добавления интересующего клана на сервис через форму на главной странице.
+В бесплатном режиме обновлять данные по клану нужно вручную, не чаще, чем один раз в трое суток (примерно). 
+Для обновления данных нужно зайти на страницу клана на сервисе и перейти по ссылке "Обновить данные". 
+Данные не будут обновлены сразу же, вместо этого соответствующее задание будет помещено в общую очередь задач, которая запускается на обслуживание один раз в сутки
 
-Free plane is the default mode, and it available immediately after adding clan from form on main page. 
-With free plane, you can update the data no more frequently than once every three days. 
-To update the data, you need to visit any clan page and click the link "Update data".
-
-Benefits of paid service modes you can see in `this table`_.
+Преимущества платных режимов обслуживания вы можете увидеть в `этой таблице`_.

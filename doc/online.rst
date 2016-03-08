@@ -1,39 +1,39 @@
-Clan's online statistic
-=======================
+Статистика сводного онлайна клана
+=================================
 
-For clans using paid plans ("Base" or "Premium"), a summary of the clan's daily activity is available in the "Online" tab. 
-The cell for each day on the calendar shows each clan member who has had at least one battle that day. 
-If you hover over the cell for a certain day, a tooltip will appear showing the clan members' average number of battles for that day.
+Для кланов, обслуживаемых в платных режимах ("Базовый" и "Премиум") на вкладке "Онлайн" доступна сводная информация о ежедневном онлайне клана. 
+В ячейках дней календаря отображается количество участников клана, у которых был хотя бы один бой в этот день.
+При наведении курсора мыши на ячейку дня, отображается подсказка о среднем количестве боев у участников клана в этот день.
 
 .. figure:: online_daily.jpg
-   :alt: Track daily and hourly clan activity
+   :alt: Сводная информация о ежедневном онлайне клана
 
-If your clan uses free plan, you can try this function for free by turning on the "Base" service mode for thirty days. 
-To do this, the clan-leader or vice-leader needs to login on the clan panel site with their Wargaming OpenID and click "Free Trial" on the clan page. 
-If the clan has already used a trial period, this feature is unavailable.
+Если ваш клан обслуживается в бесплатном режиме, вы можете опробовать эту функцию, бесплатно включив для своего клана режим обслуживания "Базовый" на 30 дней.
+Для этого командиру или заместителю нужно авторизоваться на сайте клан-панели через Wargaming OpenID и на странице своего клана нажать кнопку "Бесплатный триал". 
+Если клан в прошлом уже включал пробный период, то данная возможность недоступна.
 
-For clans using "Premium" plan, online information about the clan's hourly online activity and "Active members in the last N hours" widget are also available in the "Online" tab.
+Для кланов, обслуживаемых в режиме "Премиум", на вкладке "Онлайн" также доступна информация о почасовом онлайне клана и виджет "Активные участники за последние N часов". 
 
-For each hour of the current and previous day, this chart shows the number of clan members who have had battles in this hour. 
-The chart is updated at the beginning of every hour.
+Для каждого часа за текущие и предыдущие сутки график отображает количество участников клана, у которых были бои в течение этого часа. 
+График обновляется в начале каждого часа. 
 
 .. figure:: online_hourly.jpg
-   :alt: Hourly online activity
+   :alt: Информация о почасовом онлайне клана
 
-A similar graph can be seen for any day in the past, starting from the moment the clan starts using "Premium" mode. 
-For this, click on the chosen day on the calendar in the "Online" tab.
+Аналогичный график можно просмотреть для любого дня в прошлом, начиная с момента включения для клана режима "Премиум". 
+Для этого нужно кликнуть на выбранном дне в календаре на вкладке "Онлайн".
 
-If you click on the hour column in the chart, you can see the list of players, who have had battles during that hour. 
-When viewing the results of a query, you can select any interval in hours (the size of interval cannot exceed 24 hours) for any day.
-On this day, the clan must have an active premium plan into clan-panel.
+Если кликнуть на столбике часа на графике, можно увидеть список игроков, у которых были бои в течение этого часа. 
+При просмотре результатов запроса можно выбрать произвольный интервал в часах (размер интервала не может превышать 24 часа) для произвольного дня, 
+если в этот день у клана премиум-режим обслуживания в клан-панели был активным.
 
 .. figure:: online_hourly_period.jpg
-   :alt: Selected period (hourly)
+   :alt: Произвольный интервал в часах
 
-Player's names in that list are links through which you can view an hourly chart of the chosen player's battles for that day.
-The chart's bars represent the number of the player's battles for each hour.
+Имена игроков в этом списке являются ссылками, перейдя по которой, можно просмотреть почасовой график боев интересующего игрока за выбранный день.
+Столбики графика отображают количество боев, проведенных участником за каждый час. 
 
 .. figure:: online_current.jpg
-   :alt: Player's battles for a day
+   :alt: Почасовой график боев игрока
 
-Additionally, a similar chart for the present and previous days is available in the "Online" tab of the data section of the player's account.
+Кроме того, аналогичный график для текущих и предыдущих суток, доступен на вкладке "Онлайн" в разделе данных об аккаунте игрока.

@@ -1,65 +1,59 @@
-FAQ
-===
+FAQ Вопросы и ответы
+====================
 
-Why has clan [XXX] been in my tasks for two days in a row?
-----------------------------------------------------------
+Почему клан [XXX] в моих заданиях записан два дня подряд?
+---------------------------------------------------------
 
-If you put a cover on any of the days, the second day will disappear from this clan's tasks - that is, 
-will be filtered out by the rule "there are attacks planned for this clan". 
-This will be happens when the data about attack will appear at wargaming.net and will be readed by clan-panel.
-For all other clans, the second (uncovered) day will stay in their tasks.
+Если поставить прикрытие на любой из дней, то остальные задачи по прикрытию этого клана пропадут из списка, когда данные о поставленной атаке появятся на сайте Wargaming и будут прочитаны клан-панелью. 
+Они отфильтруется по условию "на клан уже есть запланированные атаки". У остальных кланов второй (неприкрытый вами) день в задачах останется.
 
-Is it possible for some clan not to be covered? That is, nobody will put a cover on it.
----------------------------------------------------------------------------------------
+Возможен вариант, что какой-то клан не будет прикрыт? На него просто не поставят прикрывашку.
+---------------------------------------------------------------------------------------------
 
-This scenario is only possible in case there will be no technical possibility to cover this clan. 
-There can be only two real reasons for that: few alliance members or tool many clans in one defense hour.
+Этот вариант возможен только в том случае, когда ни у кого не будет технической возможности прикрыть. 
+Реальных причин такой ситуации возможно только две: мало участников в союзе или когда куча кланов в одном прайме.
 
-If somebody has the technical capability to throw a cover, it will be on their task lists. 
-An uncovered clan will see who can provide cover by clicking on an uncovered day in their schedule.
+Если у кого-то есть техническая возможность кинуть прикрытие, то у тех, кто может, она в задачах будет светиться. 
+Не прикрытый, кликнув в своем расписании защит по неприкрытому дню, узнает кто его может прикрыть.
 
-I followed a link sent by an alliance member and got this message "The clan administration allowed this page to be viewed only by clan members." What should I do?
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Перешел по ссылке, которую мне дал другой участник союза, а оно мне пишет "Администрация клана разрешила просматривать эту страницу только участникам клана." Чего делать?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The link you have is probably to the clan section of the person who gave you the link. 
-This is like trying to click a link to something in a private area on the WG portal. No one, except the owner, has access to it.
+Ссылка, которую вам дали, скорее всего ведет в раздел для клана того человека, который дал вам ссылку. 
+Это все равно что пытаться перейти по ссылке, ведущей в "Личный кабинет" на портале WG. 
+Кроме владельца, попасть туда не сможет никто.
 
-You need to go to YOUR clan's section. There is a special procedure for it, which will work for everyone.
+Вам нужно перейти в раздел СВОЕГО клана. Для этого есть универсальная процедура, которая подойдет всем.
 
-* Go to the site clan-panel
-* Click the "Sign in" button at the top of the page
-* Go to the "Stronghold" tab
-* Click the green button labelled "Tasks for clan" (available to clan officers)
+* зайти на сайт клан-панель
+* авторизоваться через ссылку "Войти" справа вверху страницы
+* перейти на вкладку "Укрепрайон"
+* кликнуть зеленую кнопку "Задачи для клана" (доступна только офицерам кланов)
 
-After authorization in the clan panel, I don't see the green "Clan tasks" button on the "Stronghold" tab, although I am the vice-leader in the clan. Why?
----------------------------------------------------------------------------------------------------------------------------------------------------------
+После авторизации в клан-панели нет зеленой кнопки "Задачи для клана" на вкладке "Укрепрайон", хотя я зам.командира клана. Почему?
+----------------------------------------------------------------------------------------------------------------------------------
 
-It often happens if your clan data in the clan panel are obsolete and no longer correspond to your current position in the clan.
+Чаще всего так случается, когда данные вашего клана в клан-панели сильно устарели и не соответствуют вашей текущей должности в клане. 
 
-Please pay attention to the value of the "Data updated:" field next to the clan emblem. 
-Clan composition and member status changes are saved after each update. 
-If the latest update took place relatively recently, click the "Update data" button in the upper part of the page. 
-The clan data will be updated within a day and the "Clan tasks" button on the "Stronghold" tab will be available to you on the next day.
+Обратите внимание на значение поля "Данные обновлены:" рядом с эмблемой клана. 
+Состав клана и изменения должностей участников клана запоминаются после каждого обновления.  
+Если последнее обновление было достаточно давно, нажмите кнопку "Обновить данные" в верхней части страницы. 
+Данные клана обновятся в течение суток и на следующий день кнопка "Задачи для клана" на вкладке "Укрепрайон" будет вам доступна.
 
-In the future, do not forget to periodically click the "Update data" button to keep your clan details up-to-date.
+Не забывайте в дальнейшем периодически нажимать кнопку "Обновить данные", чтобы поддерживать данные своего клана в актуальном состоянии.
 
-In addition, you can ask someone from the leadership of the clan, who currently has access, go to the "Management" tab 
-and click "Update list of participants and their positions" button.
-In this case, the clan panel update the composition of the clan immediately, without the collection of data for statistics.
+Кроме того, можно попросить кого-то из руководства клана, кто на данный момент имеет доступ к разделу "Управление", авторизоваться на сайте, зайти в раздел "Управление"
+и нажать кнопку "Обновить список участников и их должностей". В этом случае клан-панель сразу обновит состав клана без сбора данных для статистики.
 
-Can we get banned for these covers if they consider them rigged battles?
-------------------------------------------------------------------------
+А нас не забанят за эти прикрытия, как за договорные бои?
+---------------------------------------------------------
 
-First of all, provision of cover does not fall under the definition of a "rigged battle":
-
-   Let's start from the definition: rigged battles are battles that are specifically organized for achieving abnormally high statistical results and winning rare rewards.
+Во-первых, бои-прикрытия укрепрайонов не попадают под определение "договорного боя"
 
 .. figure:: wg_msg01.png
-   :alt: ru portal link
+   :alt: Начнём с определения: договорные бои — это специально организованные бои для достижения аномально высоких статистических результатов и получения редких наград.
 
-Also, the developers have given a direct answer to this question.
-
-   There will be no bans for throwing chips into battle.
+Во-вторых, разработчики дали прямой ответ на этот вопрос.
 
 .. figure:: wg_msg02.png
-   :alt: ru forum link
+   :alt: За вывод в бой фишек никаких банов не будет.

@@ -1,41 +1,41 @@
-Search for SH attacks
-=====================
+Поиск атак УР
+=============
 
-If you spend a lot of time searching for the objects of attack in SH, you can use the function "Search for SH attacks".
-This function is available for officers of clans, with paid plan (base or premium) in effect.
+Если вы тратите много времени на поиск обьектов для атаки в УР, вам может помочь функция "Поиск атак УР" сайта клан-панель. 
+Данная функция доступна офицерам кланов с действующим платным режимом обслуживания (базовый или премиум).
 
-* Click the "Sign in" button at the top of the page
-* Tap "Stronghold" tab
-* Click the green button labelled "Search for SH attacks" (available to clan officers)
+* авторизоваться через ссылку "Войти" справа вверху страницы
+* перейти на вкладку "Укрепрайон"
+* кликнуть зеленую кнопку "Поиск атак УР" (доступна только офицерам кланов)
 
-At the "Search for SH attacks" page
+На страничке "Поиск атак УР"
 
-* Select your time zone
-* Choose from the list enemy's hour of the  defense and the level of SH
-* Enter in the field "Max position in rating" value of position WG ranking. Clans above this position in the ranking will not be included in the search results
-* Click the button labelled "Find"
+* выставить удобный вам часовой пояс, по которому будет отображаться время боев
+* выбрать из списка интересующий вас уровень УР и час обороны противника
+* ввести в поле "Макс.позиция рейтинга" значение позиции рейтинга кланов WG. Кланы выше этой позиции в рейтинге не будут включены в результаты поиска
+* нажать кнопку "Найти"
 
-List of clans that have a SH, corresponding to your search criteria and the available for the attacks in the next 2 weeks, will be displayed as a table.
-The table has the following columns:
+Список кланов, которые имеют УР, соответствующий заданным критериям поиска и доступные дни для атак в ближайшие 2 недели, отображается в виде таблицы. 
+Таблица имеют следующие колонки:
 
-* Clan tag. Click to go to a page with a list of dates, when this clan can be attacked
-* Position in the ranking of WG
-* The number of buildings in the clan's SH
-* The average level of SH buildings
-* The number of days in the next 2 weeks, when clan is available for attacks
+* тег клана. при клике переход на страничку со списком дат, когда клан можно атаковать
+* позиция клана в рейтинге WG
+* кол-во зданий в УР клана, кроме Командного центра
+* средний уровень зданий УР
+* кол-во дат в расписании клана, доступных для атак
 
-The results do not include next clans:
+В результаты поиска не включаются кланы:
 
-* You have a scheduled battle in the future
-* You had a battle 7 days ago or earlier
-* Your allies by SH defense (if you are a member of SH alliance)
-* Serving with premium plan
+* с которыми у вас уже запланированы бои в будущем
+* бои с которыми были меньше 7 дней назад
+* состоящие в вашем союзе УР клан-панели (если вы участник союза УР)
+* обслуживаемые в клан-панели в премиум-режиме
 
-Below is a link to the table of clans, the relevant search criteria, which after the specified time it will be possible to put a new attack on 2 weeks ahead.
-At the time of this new attack clans have no neutrality, this new attack does not fall on their day off, and you do not have scheduled battles with them.
+Ниже располагается ссылка на таблицу кланов, соответствующих заданным критериям поиска, на которые через указанное время можно будет поставить новую атаку на 2 недели вперед. 
+На момент этой новой атаки кланы не имеют нейтралитета, эта новая атака не попадает на их выходной, и у вас нет с ними запланированных боев.
 
 .. note::
-   How does this work
+   Как это работает
 
-   Once a day the first few thousands clans rated WG scanned and stored in the database.
-   Clans that have a battles in their schedule, additionally scanned several times a day to update data in a clan-panel.
+   Раз в сутки страницы УР первых нескольких тысяч кланов по рейтингу WG сканируются и сохраняются в базе данных. 
+   Кланы, которые имеют бои в своем расписании, в течение суток дополнительно сканируются еще несколько раз с обновлением их данных в клан-панели.

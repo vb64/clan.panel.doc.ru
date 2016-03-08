@@ -1,165 +1,160 @@
-Stronghold defense
+Защита укрепрайона
 ==================
 
-The site clan-panel may help you solve the problem of protecting your Stronghold from hostile clans' attacks. 
-This can be done by making alliances with other clans and attacking (covering) each other, thus preventing enemies from attacking the alliance clans.
+Сайт клан-панель может помочь вам в решении задачи защиты своего УР от атак враждебных кланов. 
+Это можно сделать, обьединившись в союз с другими кланами и атаковать (прикрывать) друг друга, не давая возможности врагам атаковать кланы союза.
 
-The clan panel will automatically create lists of tasks for covering allies for each alliance member.
+Клан-панель будет автоматически создать списки задач по прикрытию союзников для каждого участника союза.
 
-How to create a new alliance
-----------------------------
+Как создать новый союз
+----------------------
 
-In order to create in new stronghold alliance and become its coordinator, a clan must not be a part of another alliance, have at least a level 5 stronghold and an activated defense mode.
+Для того, чтобы создать новый союз УР и стать его координатором, клан не должен состоять в другом союзе, иметь УР от 5 уровня и активированный режим защиты/обороны.
 
-* Go to the site clan-panel
-* Click the "Sign in" button at the top of the page
-* Go to the "Stronghold" tab
-* Click the green button labelled "Defense of Stronghold" (available to clan officers)
-* Click the green button labelled "Join an union or create new" (available to leader and vice-leader)
-* Click the "Create Union" button
+* зайти на сайт клан-панель
+* авторизоваться через ссылку "Войти" справа вверху страницы
+* перейти на вкладку "Укрепрайон"
+* кликнуть зеленую кнопку "Защита Укрепрайона" (доступна только офицерам клана)
+* кликнуть зеленую кнопку "Вступить в союз или создать свой" (доступна только командиру и замам)
+* нажать кнопку "Создать союз"
 
-The new alliance has only one member - the clan that created it. 
-The officers of the clan have the authority of the coordinators of the new alliance. 
-A coordinator can send out invitations to join the alliance to other clans (up to 100 clans in an alliance).
+В созданном новом союзе состоит один участник - клан, который его создал. Офицеры этого клана имеют полномочия координаторов нового союза. 
+Координатор может разослать приглашения на вступление в союз другим кланам (до 100 кланов в союзе).
 
-To do that, he/she needs to enter the address of the official page of the clan being invited into a field under the table of clans and click the "Invite clan" button. 
-For example, if you want to invite the [WG] clan into an alliance, you need to enter *http://eu.wargaming.net/clans/500000001* into the address field.
+Для этого ему нужно ввести адрес официальной страницы приглашаемого клана в поле под таблицей кланов и нажать кнопку "Пригласить клан".
+Например, для приглашения в союз клана [WG] нужно ввести в поле ввода адрес *http://ru.wargaming.net/clans/1/*
 
-How to join an existing alliance
+Как вступить в существующий союз
 --------------------------------
 
-In order for a clan to be able to join an existing stronghold alliance, the coordinator of this alliance has to send them an invitation.
+Для того, чтобы клан мог присоединиться к существующему союзу УР, этому клану должен направить приглашение координатор союза.
 
-A join invitation can be accepted by a leader or vice-leader. That's what they need to do:
+Приглашение на вступление в союз может принять командир клана или его заместитель. Для этого ему нужно:
 
-* Go to the site clan-panel
-* Click the "Sign in" button at the top of the page
-* Go to the "Stronghold" tab
-* Click the green button labelled "Defense of Stronghold" (available to clan officers)
-* Click the green button labelled "Join an union or create new" (available to leader and vice-leader)
-* Click the "Join" button next to a corresponding invitation
+* зайти на сайт клан-панель
+* авторизоваться через ссылку "Войти" справа вверху страницы
+* перейти на вкладку "Укрепрайон"
+* кликнуть зеленую кнопку "Защита Укрепрайона" (доступна только офицерам клана)
+* кликнуть зеленую кнопку "Вступить в союз или создать свой" (доступна только командиру и замам)
+* нажать на кнопку "Вступить" рядом с соответствующим приглашением
 
-Once you've joined an alliance, every visitor of your clan's "Stronghold" tab will be prompted for authorization. 
-The page will be accessible only to clans in the alliance.
+После того, как вы станете участником союза, у посетителей страницы "Укрепрайон" вашего клана будет запрашиваться авторизация. 
+Просмотр этой страницы будет доступен только участникам кланов, входящих в союз.
 
-What coordinators require from alliance members
------------------------------------------------
+Что нужно координаторам от участников союза
+-------------------------------------------
 
-To make sure that the clan's ally support tasks contain no errors (for example, a task to cover an ally with the same defense hour), 
-all clans with an activated procedure of changing a day off and/or defense hour and the changes currently pending need to fill out the details of these changes. 
-More information can be found here.
+Чтобы задачи клана на прикрытие союзников не содержали ошибок (например, задача прикрыть союзника с одинаковым часом обороны), 
+всем кланам, у которых активирована процедура изменения выходного и/или часа обороны, и в будущем эти значения должны поменяться, нужно заполнить данные об этих изменениях. 
+Как это сделать, написано тут.
 
-For quick and efficient communications between you and other members of the alliance, 
-it is recommended that you specify the contact details of your clan (voice chat server address, key nicknames, etc.) 
-by clicking the "Fill contact information" link on the clan's task page.
+Для оперативной связи с вами других участников союза, желательно указать контактные данные своего клана (адрес сервера голосового чата, ники ответственных лиц и т.п.), 
+перейдя по ссылке "Заполнить контактные данные" на странице задач клана.
 
-Covering allies
----------------
+Прикрытие союзников
+-------------------
 
-* Go to the site clan-panel
-* Click the "Sign in" button at the top of the page
-* Go to the "Stronghold" tab
-* Click the green button labelled "Tasks for clan" (available to clan officers)
+* зайти на сайт клан-панель
+* авторизоваться через ссылку "Войти" справа вверху страницы
+* перейти на вкладку "Укрепрайон"
+* кликнуть зеленую кнопку "Задачи для клана" (доступна только офицерам кланов)
 
-Set attacks according to the list. Completed tasks will disappear from the list when information about these attacks appears on the Wargaming website 
-and will be read by the clan panel. 
-Tasks that are not yet available, but will become available soon, have a corresponding comment in the last column. 
-This comment specifies the time remaining till the moment when the task will become available.
+Проставить атаки согласно списка. Выполненные задачи пропадут из списка, когда данные об этих атаках появятся на сайте Wargaming и будут прочитаны клан-панелью. 
+Задачи, которые пока не доступны, но будут доступны в ближайшем будущем, отмечены примечанием в последней колонке. 
+В этом примечании указано время, оставшееся до момента, когда задача станет доступной.
 
-The rules of creating ally coverage tasks are described in detail here.
+Правила формирования заданий клану по прикрытию союзников описаны тут.
 
-Bids for covering allies
-------------------------
+Заявки на прикрытие союзников
+-----------------------------
 
-You can set your bids for covering allies in the defenses, that will be available soon.
-This may be useful for other members of union, when they are planning covering.
-Set checkboxes for defenses, which you will be covering, and click 'Save my bids' button.
+Вы можете сделать заявки на прикрытие союзников в оборонах УР, которые будут доступны в ближайшее время.
+Это может быть полезным для других участников союза при планировании своих прикрытий.
+Проставьте галки для тех защит, которые вы планируете прикрывать, и нажмите кнопку 'Сохранить мои заявки'.
 
-Reception of bids is stopped at the time, when you can set attack in the game client.
-After that, you must cover an ally, instead of doing the bids.
+Прием заявок прекращается в момент, когда соответствующую атаку станет возможно поставить в клиенте.
+После этого нужно просто прикрывать союзника, а не делать заявки.
 
-The number of bids will be displayed in the "Bids" column in the task list and in schedule of SH defenses.
-You can click on number of bids in a table cell to view clans, that have made these bids.
+Количество сделанных заявок на прикрытие будет отображаться в колонке "Заявки" в списке задач клана и в расписании защит УР.
+Кликнув по числу заявок в ячейке таблицы, можно увидеть список кланов, которые сделали эти заявки.
 
-Covering your clan
-------------------
+Прикрытие вашего клана
+----------------------
 
-If all alliance members (including you) will diligently complete tasks from their lists, 
-all the days in your clan's schedule will be covered by allies' attacks. 
-The stronghold defense schedule for your clan can be found under the list of tasks.
+Если все участники союза (и вы в том числе) будут аккуратно выполнять задачи из своего списка, то все дни в расписании вашего клана будут прикрыты атаками союзников. 
+Расписание защиты УР для вашего клана  можно посмотреть внизу под списком задач.
 
-Days when an attack on you is possible and there is no coverage from allies are marked with an empty "Attack" column. 
-Click the defense date to see a list of allies who can cover you on this day along with a list of allies who cannot cover you on this day, 
-including the reason for that.
+Дни, когда атака на вас возможна, а прикрытия от союзников нет, отмечены пустой колонкой "Атака". 
+Кликнув по дате защиты, вы увидите список союзников, которые могут вас прикрыть в этот день. 
+Плюс список союзников, которые в этот день прикрыть не могут, с указанием причины.
 
-You can contact other clans requesting cover. By the way, the task of covering you clan is on their task lists.
+Вы можете обратиться с предложением прикрыть вас к кланам, имеющим такую возможность. 
+Кстати, задача по прикрытию вашего клана в этот день, присутствует в их списках задач.
 
-Alliance summary
-----------------
+Сводные данные по союзу
+-----------------------
 
-There is a "List of clans" link on the clan page. 
-If you click this link, you will see a list of all alliance members and the chart of defense distribution by time of day. 
-Uniform distribution of defense by the time of day enables alliance members to efficiently cover each other.
+На странице задач клана имеется ссылка "Список кланов". 
+Перейдя по этой ссылке, вы можете увидеть список всех участников союза и график распределения времени обороны участников по часам суток.
+Равномерное распределение времени обороны по часам суток позволяет участникам союза эффективнее прикрывать друг друга.
 
-Table columns contain information about the current defense settings for each clan. 
-Clicking a clan tag will send you to a page with a battle schedule for this clan. 
-If you click on the "defense period", you will see a list of tasks and the stronghold defense schedule of this clan within the alliance. 
-If the clan has their contact details filled out, you can click the phone icon to see them.
+Колонки таблицы содержат данные о текущих настройках обороны каждого клана. 
+Клик по тегу клана направит вас на страницу с расписанием всех боев клана. 
+Кликнув по "периоду обороны" клана, можно посмотреть список задач и расписание защит УР этого клана в рамках союза. 
+Если у клана заполнены контактные данные, то можно кликнуть по значку телефона, для их просмотра.
 
-The following columns contain the clan's stronghold battle stats within the alliance for the two weeks. 
-Place the mouse cursor over the column header to see a tooltip explaining the content of the column.
+Следующие колонки содержат статистику клана по боям в УР в составе союза на предстоящие две недели. 
+Пояснение содержимого колонок можно получить, наведя курсор на заголовок колонки, во всплывающей подсказке.
 
-* CVT - allies covered
-* CVF - number of times covered by the allies
-* ATT - number of clans attacked outside the alliance
-* ATF - number of times attacked by clans outside the alliance
-* NCV - uncovered days in the clan's schedule that can be used for an attack
-* EFF - effectiveness of cover
+* CVT - прикрыто союзников
+* CVF - получено прикрытий от союзников
+* ATT - атаковано кланов вне союза
+* ATF - атаки от кланов вне союза
+* NCV - неприкрытых дней в расписании клана, куда можно кинуть атаку
+* EFF - эффективность прикрытия (процент прикрытий от союзников в общем числе защит)
 
-Below the table is a list of clans with an activated procedure of changing defense settings with a description of upcoming changes.
+Под таблицей участников можно увидеть список кланов, у которых активирована процедура смены настроек обороны с описанием предстоящих изменений.
 
-The "Board of Shame" link opens a list of clans that are not very good at covering allies. 
-These clans get covered by their allies, have uncompleted tasks in their task lists, 
-but cover their allies much more seldom than they receive support from others. 
-Clans appear on the "Board of Shame" automatically and are removed from it as soon as they start fulfilling their obligations to their allies.
+Ссылка "Доска позора" показывает список кланов, которые плохо выполняют задания по прикрытию союзников. 
+Эти кланы получают прикрытия от союзников, имеют невыполненные задания в своем списке задач, но сами прикрывают союзников гораздо реже, чем союзники прикрывают их. 
+Кланы попадают на "Доску позора" автоматически и пропадают оттуда, как только начинают ставить достаточное количество прикрытий союзников.
 
-The "Recent attacks" link opens a list of clans that your clan attacked over the past week. 
-Clans from this list that are not found in the clan panel database are displayed in the form of a clan ID instead of a clantag.
+Ссылка "Недавние атаки" показывает список кланов, которые клан атаковал за последнюю неделю. 
+Кланы из этого списка, отсутствующие в базе данных клан-панели, отображаются в виде ID клана, а не в виде клан-тега.
 
-Informing other clan members about stronghold battles within an alliance
-------------------------------------------------------------------------
+Информирование соклановцев о боях за УР в рамках союза
+------------------------------------------------------
 
-To prevent situations where your clan members start an stronghold battle not knowing that this battle is taking place in an alliance, 
-you can place a link to the page that usually opens upon clicking on the "Stronghold" tab to your clan forum or resource that you use for communication.
+Для предотвращения ситуаций, когда ваши соклановцы начинают бой за УР, не зная, что это бой в рамках союза, 
+вы можете разместить ссылку на страницу, которая открывается при клике по вкладке "Укрепрайон" на своем клановом форуме или ресурсе, который вы используете для общения в своем клане.
 
-This page is updated automatically and can be visited by the members of all clans in the alliance. 
-The page contains the battle schedule of your clan "color painted" according to the coordination rules in your alliance.
+Эта страница обновляется автоматически и на нее могут заходить все участники всех кланов союза после авторизации.
+На странице показано расписание всех боев вашего клана, "раскрашенное" в соответствии с координацией в рамках союза.
 
-Leaving the alliance
---------------------
+Выход из союза
+--------------
 
-A clan leader or vice-leader can leave an alliance at any moment by clicking the "Suspend membership" button at the bottom of the page with clan tasks.
+Командир или зам.командира клана может в любой момент покинуть союз, нажав кнопку "Приостановить участие" внизу страницы с задачами клана. 
 
-If it happens, all existing covers from/for this clan will remain as battles with allies in members' schedules. 
-Tasks for covering the clan that has suspended its membership will not be included into the tasks lists of other alliance members. 
-Such clans will be marked with a tick mark in the "PSV" column of the table.
+При этом все существующие прикрытия от/на этот клан в расписаниях участников останутся как бои с союзником. 
+Задания на прикрытие клана, приостановившего участие, не будут включаться в списки задач участников союза. 
+В списке участников такие кланы помечены галкой в колонке таблицы "PSV".
 
-Once all clan covers within the alliance have been completed, you will be able to leave the alliance for good by clicking the "Leave union" button. 
-From now on, all battles with such a clan will be shown in members' schedules as enemy attacks.
+Клан, приостановивший участие в союзе, в любой момент может возвратиться обратно. 
+Для этого командиру или заместителю нужно нажать соответствующую кнопку на странице задач клана.
 
-A clan that has suspended its membership in an alliance can re-join at any moment. 
-In order to do that, the commander or lieutenant needs to click a corresponding button on the clan's page.
+После того, как завершаться все прикрытия клана в рамках союза, можно будет окончательно выйти из состава, нажав красную кнопку "Покинуть союз". 
+После этого все бои с таким кланом в расписаниях участников станут отображаться как бои с враждебным кланом.
 
-Coordinator's special rights
-----------------------------
+Особые права координатора
+-------------------------
 
-Apart from sending invitations to join the alliance, the alliance coordinator can suspend clan memberships, remove clans from the alliance, 
-change the defense settings and contact details of any alliance member.
+Помимо рассылки приглашений на вступление в союз, у координатора союза есть возможность приостанавливать членство в союзе, удалять из союза, 
+изменять настройки обороны и контактные данные любого участника союза. 
+Если участие клана в союзе приостановлено координатором, возобновить участие может только координатор.
 
-In order to do that, the coordinator has to click on the "defense period" of the necessary clan. 
-On this clan's task page, the coordinator will find a link called "[CLANTAG] defense settings" and a "Suspend membership" or "Leave union" button 
-(if membership has already been suspended).
+Для этого ему нужно в списке кланов кликнуть по "периоду обороны" нужного клана. 
+На страничке задач этого клана координатору доступна ссылка "Настройки обороны [КЛАНТЕГ]", кнопка "Приостановить участие" или "Покинуть союз" (если участие приостановлено).
 
-The coordinator cannot suspend his or her own membership or leave the alliance, but can completely dismiss the alliance. 
-A corresponding button is located at the bottom of the "List of clans" page.
-
+Координатор не может приостановить свое участие в союзе или покинуть союз. 
+Он может только полностью распустить союз. Соответствующая кнопка доступна координатору по ссылке "Список кланов" внизу страницы.

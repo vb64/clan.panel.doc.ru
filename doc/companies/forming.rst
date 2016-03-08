@@ -1,104 +1,102 @@
-Forming and supporting a clan company
-=====================================
+Формирование и поддержка клановой роты
+======================================
 
-This function is intended to help clan company commanders manage company composition, 
-select appropriate setup of the vehicles for particular battles, 
-pick company members by availability of a certain vehicle in their hangars and by playing skills they have on that vehicle.
+Функция предназначена для использования командирами клановых рот с целью облегчить их работу по управлению составом роты, 
+подбору необходимых ротных сетапов техники для разного вида боев, 
+подбору участников в роту по наличию нужной техники и скилу игрока на этой технике.
 
-How much does it cost?
-----------------------
+Сколько стоит?
+--------------
 
-It is free.
+Бесплатно.
 
-Where to start from?
---------------------
+С чего начать?
+--------------
 
-If your clan isn't added to this service yet, you can add it using the submission form on the homepage and waiting for approval. 
-Initial loading data for a clan may take few minutes, and depend on the current load on the server.
+Если ваш клан еще не добавлен на этот сервис, добавьте его через форму на главной странице, и дождитесь обновления данных по вашему клану. 
+Первоначальная загрузка данных о клане может длиться несколько минут и зависит от текущей загрузки сервера.
 
-Then authorize via wargaming.net OpenID (the "Sign in" link above) and open the page of your clan in the service, clicking the clantag link, 
-that appears in place of the "Sign in" link after you authorize.
+Затем авторизуйтесь через wargaming.net OpenID (ссылка "Войти" вверху страницы) и перейдите на страницу своего клана на сервисе,
+кликнув по ссылке вашего клантега, которая появляется вместо ссылки "Войти" после авторизации.
 
-If you are a member of the administration of your clan (a commander, a deputy commander, a recruiter, a field commander), 
-the "Management" link will be available to you. 
-Following this link you can see an empty table of clan's companies and the "New company" link above.
+Если вы являетесь членом администрации вашего клана (командир, заместитель, вербовщик, полевой), то вам будет доступна ссылка "Управление". 
+Перейдя по этой ссылке, вы увидите пустую таблицу клановых рот и ссылку "Новая рота" над этой таблицей.
 
-How to create a company?
-------------------------
+Как создать роту?
+-----------------
 
-Click the "New company" link. You should specify a tag and a name for your new company.
+Нажмите ссылку "Новая рота". Для новой роты нужно задать тэг и название.
 
-Tag is a unique id of your company in the clan, it is specified upon creation of the company and cannot be changed later. 
-The tag must be one number or one Latin symbol.
+Тэг - уникальный идентификатор роты внутри клана, он задается при создании роты и впоследствии не может быть изменен. Тэг должен быть одной цифрой или одним латинским символом.
 
-Name is an arbitrary string that will be displayed in the company list. The name of a company can be changed later.
+Название - произвольная строка, которая будет отображаться в списке рот. Название роты можно в дальнейшем изменять.
 
-Put checkmarks in the leftmost column of the clan member list near the names of those people you would like to include into the new company 
-and click the "Form a company" button below.
+Проставьте галки в крайней левой колонке с списке участников клана для тех людей, которых вы хотите включить в состав новой роты, и нажмите кнопку "Сформировать роту" внизу страницы.
 
-What are company setups and what are they for?
-----------------------------------------------
-
-Company setup is a set of tanks you plan using in a battle. 
-By creating a company setup you can review vehicles of a certain configuration company members have and evaluate their gaming skills on given machines from the setup.
-
-Immediately after creating, a company has no setups. 
-To create a company setup, click the "New setup" link from the company editor page.
-You can use the company type dropdown list and vehicle level links to filter out the list of displayed vehicles. 
-Name the setup (the name will be displayed in the setup table), select tank models for this setup, 
-specify the number of tanks of each type and click the "Save" button in the bottom of the page.
-
-This will open this company setup page. 
-For each company member, if he has appropriate vehicles listed in the setup, the win percentage and the number of battles fought on the corresponding vehicle is shown.
-
-You can create unlimited number of setups for a company - for various battle types, maps and so on.
-
-What about non-absolute setups, say champion?
+Что такое ротные сетапы и для чего они нужны?
 ---------------------------------------------
 
-If you try to create a non-absolute setup for a company (for example, a champion setup) you'll find that no company members have tanks for such a setup. 
-Nevertheless you do have machines in your garage that meet the setup. 
-That is because the service automatically detects top vehicles members have, but for non-top tanks the owner of the account must notify the service explicitly.
+Ротный сетап - это набор танков, которые вы планируете использовать в бою. 
+Создав ротный сетап, вы можете увидеть наличие техники из данного сетапа у участников роты, а также оценить навыки игры участников на конкретной модели техники из сетапа.
 
-This can be done as follows. Authorize in the service (see "Where to start from?"). In the upper part of the page you will see the "Your_nickname" link.
-By following this link you will open your profile. There you can see the list of non-top tanks you played at least one battle on since clan data were updated last time.
-Select tanks you currently possess in your garage and click the "Save settings" button.
+Сразу после создания, рота не имеет сетапов. Для создания ротного сетапа, 
+со страницы редактора рот перейдите по ссылке "Новый сетап".
+Вы можете использовать выпадающий список типа роты и ссылки номеров уровней для ограничения размера отображаемого списка техники.
+Задайте название сетапа (оно будет отображаться в таблице сетапов), отметьте модели танков для этого сетапа, 
+укажите кол-во танков каждого типа, и нажмите кнопку "Сохранить" внизу страницы.
 
-Then, after you are back into the company editor, you will see data on your vehicles in the non-absolute setup of your account. 
-If you want to have the complete information for non-absolute setups (which is especially important after "Seasons" was introduced on the CW), all members of your company must do the same. 
-You can control which company members have selected their non-top tanks and who have not by looking to the "Profile" column in the company member table of the company editor. 
-The cells of this table display the number of days since a player updated his profile.
+Вы попадете на страницу данного ротного сетапа. 
+Для каждого участника роты, если у него есть соответствующая техника из сетапа, будет показан процент побед и количество боев на этом виде техники.
 
-If a player didn't save his profile yet, the corresponding cell is empty.
+Вы можете создавать неограниченное количество сетапов для роты - для разных типов боев, карт и т.п.
 
-How to select combatants based on vehicle setups used by the company?
----------------------------------------------------------------------
+А как насчет не абсолютных сетапов, например, чемпионских?
+----------------------------------------------------------
 
-If a company member doesn't meet the requirements anymore for some reason, you can delete him from the list of company members. 
-To do this, check his nickname in the leftmost column of the table and select the "Remove from company" in the dropdown list above the table and click "Execute".
+Если вы попробуете создать для роты не абсолютный сетап (например, чемпионский), то обнаружите, что ни у одного участника роты нет танков для такого сетапа. 
+Хотя лично у вас в ангаре точно есть техника из заданного сетапа.
+Так происходит потому, что сервис автоматически выявляет наличие у участников топовой техники, а про наличие в ангаре не топовых танков, владелец аккаунта должен сообщить сервису явно. 
 
-If you are lack of combatants having certain skills or running certain vehicles for the company setup, open this setup's page and click the "Add members" link. 
-A list of clan members who are not in your company yet and who have at least one tank from the current company setup will be shown. 
-Columns of the table will display win rate and the number of battles on the corresponding machine.
+Это можно сделать следующим образом.
+Авторизуйтесь на сервисе (см. раздел "С чего начать?"). В верхней части страницы вы увидите ссылку "ваш_игровой_ник". 
+Перейдя по этой ссылке, вы попадете на страницу своего профиля. Там вы увидите список не топовых танков, на которых у вас был по крайней мере один бой на момент последнего обновления данных клана. 
+Отметьте танки, которые имеются у вас в ангаре на текущий момент и нажмите кнопку "Сохранить настройки".
 
-In the left column mark all clan members that meet your criteria and click the "Add selected" button.
+Возвратившись в редактор роты, вы увидите данные по своей технике в не аболютном сетапе для своего аккаунта. 
+Для того, чтобы у вас была полная информация для подбора не абсолютных сетапов (эта задача особенно актуальна из-за введения "Кампаний" на ГК), аналогичные действия должны проделать все участники вашей роты.
+Проконтролировать, кто из участников роты отметил или не отметил свои не топовые танки, можно в редакторе роты, просмотривая колонку "Профиль" в таблице участников роты. 
+В ячейках этой колонки показывается количество дней, прошедших с момента последнего обновления игроком своего профиля. 
 
-What is an stuff list of a setup and what is it for?
-----------------------------------------------------
+Если игрок еще не сохранял свой профиль, соответствующая ячейка будет пустой.
 
-By analyzing vehicle possession, experience and skills of company members as part of a certain setup you as a field commander should decide what tank each company member should run. 
-You can formalize your decisions as an stuff list of the setup. 
-Put the checkmark in the corresponding cell of the member table of the selected setup and click the "Save members roles in setup" button.
+Как подбирать бойцов, исходя из используемых ротой сетапов техники?
+-------------------------------------------------------------------
 
-The table "Stuff list" displays nicknames of players who should play the corresponding tanks of the setup, according to you. 
-You do not have to assign a particular tank to the member in each setup, or you can assign several tanks for him in order for him to be able to replace some other member.
+Если участник роты по каким-то критериям перестал соответствовать предъявляемым требованиям, его можно удалить из списка участников роты. 
+Для этого нужно на странице редактора роты поставить галку в крайнем левом столбце таблицы напротив его ника, выбрать в выпадающем списке над таблицей участников пункт "Удалить из роты" и нажать кнопку "Выполнить".
 
-If the public section "Companies", the organization list will show in the table of company setups and will become available to all clan members. 
-This information can be useful for company members to define priorities and to decide which tanks should be top-equipped (like premium ammunition, consumables, crew training etc.)
+Если вам для какого-то ротного сетапа не хватает бойцов с нужной техникой или навыками на этой технике, перейдите на страницу этого сетапа и кликните по ссылке "Добавить участников".
+Будет показан список участников клана, не состоящих в вашей роте и имеющих хотя бы один танк из текущего ротного сетапа. 
+В колонках таблицы будут показаны винрейт и кол-во боев на соответствующей технике. 
 
-How can I be sure the information about my company won't be passed to rivals of our clan?
------------------------------------------------------------------------------------------
+Отметьте галками в левой колонке подходящих вам участников клана и нажмите кнопку "Добавить выбранных".
 
-* All information gathered by the service is obtained from the public pages of the worldoftanks.eu portal and can be gathered regardless of whether you use this service or not. The data on setups you're using and distribution of members across vehicles is available to competitors teams on each battle.
-* The only significant information not available from other sources is data on non-top machines in hangars of members. If you believe this information can have some value for your rivals, you can stop using the above mentioned functions for non-absolute companies (champion etc.)
-* You can disable public access for your clan data by enabling the "Access to clan members only" option in the "Management" section (this function is only available in the paid modes).
+Что такое штатное расписание сетапа и для чего оно нужно?
+---------------------------------------------------------
+
+Анализируя наличие техники, опыт и навыки участников роты в рамках определенного сетапа, вы, как полевой командир, решаете для себя, на каком танке в данном сетапе должен играть каждый участник роты. 
+Вы можете зафиксировать эти свои решения в виде штатного расписания сетапа.
+Проставьте галочку в соответствующей ячейке таблицы участников при выбранном сетапе, и нажмите кнопку "Сохранить штатное расписание сетапа". 
+
+В таблице "Штатное расписание" для соответствующих танков сетапа отобразятся ники игроков, которые по вашему мнению, должны играть на этих танках.
+Вы можете не назначать участнику "профильный танк" в конкретном сетапе, или назначить для него несколько "профильных танков" на случай подмены кого-то.
+
+В общедоступном разделе "Роты", данное штатное расписание отобразится в таблице ротных сетапов и будет доступно для просмора всеми участниками клана. 
+Данная информация может быть полезна участникам роты для определения приоритетов, какие танки им следует готовить к бою наиболее тщательно (покупка премиум снарядов, расходников, прокачка экипажа и т.п.)
+
+А это все не для того, чтобы украсть секретную информацию о моей роте и передать ее врагам нашего клана?
+--------------------------------------------------------------------------------------------------------
+
+* Вся информация, автоматически собираемая сервисом, берется с общедоступных страниц портала worldoftanks.ru и может быть получена независимо от того, пользуетесь ли вы услугами данного сервиса или нет. Данные об используемых вами сетапах и распределению участников по танкам доступна в каждом бою команде соперников.
+* Единственная значимая информация, недоступная из других источников - это данные о наличии не топовой техники в ангарах участников. Если вы считаете, что эта информация может иметь важное значение для ваших соперников, вы можете отказаться от использования описываемых функций для не абсолютных рот (чемпионские и т.п.)
+* У вас имеется возможность закрыть данные клана от публичного доступа, включив опцию "доступ только для членов клана" в разделе "Управление" (данная функция доступна в платных режимах).

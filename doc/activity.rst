@@ -1,31 +1,26 @@
-Current activity of clan's members
-==================================
+Отслеживание текущей игровой активности участников клана
+========================================================
 
-Table for the whole clan include data about total number of battles and battles in ClanWars for each member for two periods (last 7 and 30 days). 
-This data begin to accumulate with the addition of the clan. They are fully valid after 7 and 30 days respectively. 
+Отслеживается текущая активность участников клана за два периода - последние 7 и 30 дней. 
+Общее кол-во боев и кол-во боев на ГК каждого игрока, а также количество боев по моделям танков (динамическая статистика). 
+Статистика начинает накапливаться с момента добавления клана в базу сервиса.
 
 .. figure:: activity_members.png
-   :alt: Table of the current activity of the clan members
+   :alt: Таблица активности участников клана
 
-In the "status" column displays a short text message from a clan member. This message the player can enter in the appropriate filed on his profile page.
-Apart from the general table of clan members, the status is also displayed in the tables of participants in the control section of the tank companies.
-
-Also, there are a pages with individual detailed information for every clan member.
+Для каждого участника клана доступна страница с детальными данными о его игровой активности.
 
 .. figure:: activity_period_01.png
-   :alt: Member activity for a period
+   :alt: Данные об активности участника за период
 
-Above the calendar cards with information about the player battles by day there's a link "History". 
-Clicking on it, you can see the history of the fighting by days, starting with the addition to the site.
-
-Premium mode of servicing allow detailed information (by the types of tanks) about current activity (week, month) of the clan members,
-detailed figures of battles for each day on certain tanks, history of battles at a certain tank.
+Премиум-режим обслуживания включает данные об игровой активности участников клана по моделям танков, 
+расшифровку цифры боев за каждый день по моделям танков, историю боев на определенном танке по дням.
 
 .. figure:: activity_period_02.png
-   :alt: Member activity for a period by tanks
+   :alt: По-танковая статистика за период
 
 .. figure:: activity_prem_01.png
-   :alt: Member activity for a period by tanks
+   :alt: По-танковая статистика за период
 
 .. figure:: activity_prem_02.png
-   :alt: Member activity for a period by tanks
+   :alt: По-танковая статистика за период

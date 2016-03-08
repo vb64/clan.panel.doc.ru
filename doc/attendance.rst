@@ -1,52 +1,51 @@
-Attendance at events
-====================
+Посещаемость мероприятий
+========================
 
-With this function, you can control the attendance of clan events (trainings, companies, CW, 7/42, strongholds).
+При использовании данной функции вы можете контролировать посещаемость клановых мероприятий (тренировки, роты, ГК, 7/42) участниками клана.
 
-Table of a clan members in the columns "CA" shows the number of events in which the player participated during the relevant period.
-Sorting the list of participants by this column, you can detect the participants taking an active part in the life of the clan, and participants who ignore the clan events.
+В таблице участников клана в колонках "КМ" (клановые мероприятия) отображается количество мероприятий, в которых участвовал игрок в течение соответствующего периода.
+Сортируя список участников по этой колонке, вы можете определить участников, принимающих активное участие в жизни клана, и участников, игнорирующих клановые мероприятия.
 
 .. figure:: attendance_table.jpg
-   :alt: Player's participation in clan events
+   :alt: Колонка участия игрока в клановых мероприятиях
 
-In the data section of the player in the "Attendance" displays a history of participation of the player into clan events, with received positive and negative evaluations.
+В разделе данных игрока в секции "Посещалка" отображается история участия игрока в клановых мероприятиях и полученные им положительные и отрицательные оценки.
 
 .. figure:: attendance_account.jpg
-   :alt: Minutes of participation of the player into clan events
+   :alt: Протокол участия игрока в клановых мероприятиях
 
-In the clans section in the "Attendance" displays a table of activity commanders with data on how many activities commander led.
-If in the report about the event you stated the number of battles and victories, then the winrates will be calculated.
+В разделе клана в секции "Посещалка" отображается таблица активности командиров с данными о том, каким количеством мероприятий руководил командир. 
+Если при создании отчетов о мероприятиях указывалось количество боев и побед, то для командиров также подсчитывается процент побед в боях, которыми они командовали.
 
-All these data are taken from reports about events, that are created in this section.
-The event can consist of a single battle or a series of battles (for example, a tournament for the landing).
-Each event must have a single commander.
+Все эти данные берутся из отчетов о проведенных клановых мероприятиях, которые создаются в данном разделе.
+Мероприятие может состоять из одного боя или из серии боев (например, турнир за высадку). Каждое мероприятие должно иметь одного командира.
 
-Creating a report on the event will take a minimum of time.
-Simply upload the .wotreplay file, check the position of commander into automatically generated list (or the player who carried out the training), and then click "Save."
+Создание отчета о мероприятии займет минимум времени. 
+Просто загрузите файл .wotreplay, отметьте в автоматически сформированном списке командира (или участника, проводившего тренировку) и нажмите кнопку "Сохранить".
 
-In addition, if necessary, you can edit the list (add / remove members), set up the positive or negative remark to participant and upload additional .wotreplay files.
+Кроме того, при необходимости, вы можете отредактировать список (добавить/удалить участников), проставить положительные или отрицательные замечания участникам, загрузить дополнительные файлы .wotreplay.
 
 .. figure:: attendance_edit.jpg
-   :alt: Event report
+   :alt: Отчет о мероприятии
 
-If you upload replays to the "Attendance" module, for these replays there are pages with advanced statistic and protocol of combat chat.
-To visit this page, you can click to link with the date in table of .wotreplay files at the report page.
+Если вы загружаете реплеи в отчет о клановом мероприятии в "Посещалке", то для этих реплеев создаются страницы с расширенной статистикой и протоколом боевого чата записанного в реплее боя.
+Перейти на такую страницу можно по ссылке с датой реплея в таблице реплеев в отчете о клановом мероприятии.
 
-Page with advanced statistics contains lists of commands with the following data for each participant:
+Страница с расширенной статистикой содержит списки команд со следующими данными для каждого участника:
 
-* experience points
-* frags
-* damaged and spotted enemyies
-* damage dealt
-* damage assisted radio
-* shots
-* direct hits
-* piercings
-* explosion hits
-* potential damage received
-* mileage
+* полученный боевой опыт
+* фраги
+* поврежденные и обнаруженные противники
+* нанесенный урону
+* урон по засвету
+* выстрелы
+* попадания
+* пробития
+* попадания сплешем
+* потенциальный полученный урон
+* пробег
 
-Board member of the clan (leader/vice-leader or position from a custom list) must approve the report by clicking the appropriate button. After that, the data from the report will be added into overall statistics of a clan.
+Член руководства клана (командир/заместитель или должность из настраиваемого списка) должен утвердить отчет, нажав соответствующую кнопку, чтобы данные из созданного отчета начали учитываться в общей статистике клановых мероприятий.
 
 .. figure:: attendance_approve.jpg
-   :alt: The list of reports for approval
+   :alt: Список отчетов для утверждения

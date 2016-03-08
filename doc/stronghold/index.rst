@@ -1,11 +1,12 @@
-Stronghold
-==========
+Укрепрайон клана
+================
 
-If your clan has the "Attack and defense of Stronghold" mode enabled, you will be able to see a summary of all battles planned in the SH on the "Stronghold" tab. 
-These data are read by the clan-panel from the Wargaming clan portal. The max "age" of the data is 10 minutes. 
-If the data were last read more than 10 minutes ago, they will be automatically recalculated using the Wargaming portal.
+Если у вашего клана активирован режим "Атака и оборона Укрепрайона", то на вкладке "Укрепрайон" вы можете посмотреть сводную таблицу по всем запланированным боям в Укрепрайоне.
+Эти данные считываются клан-панелью с кланового портала Wargaming. Максимальный "возраст" данных - 10 минут. 
+Если с момента считывания данных прошло больше времени, то они автоматически перечитываются с портала Wargaming.
 
-Officers in your clan will have access to the "Defense of Stronghold" button on this page. Clicking it will open the defense schedule for your Stronghold.
+Офицерам вашего клана на этой странице доступна кнопка "Защита Укрепрайона".
+Кликнув по ней, можно просмотреть <strong>расписание защит</strong> вашего УР.
 
 .. toctree::
    :maxdepth: 2
